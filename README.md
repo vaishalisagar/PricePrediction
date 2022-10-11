@@ -21,4 +21,3 @@ Table of Content:
 2.2 Descriptive Analysis
 3. Machine Learning Models
 4. Deployment of Model
-1. Problem Background and Motivation
